@@ -1,8 +1,5 @@
 # FirstTest
 *THIS IS FirstTest*
-*RED
-*Green
-*Blue
 #Wust6-FreeStyle
 *组长:方益民
 *组员:
